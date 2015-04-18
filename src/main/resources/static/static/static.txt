@@ -1,0 +1,3 @@
+This is static text file, it can be accessed from http://localhost:8080/static/static.txt
+the anything under resources/static is served as a static resource.
+Ive added a sub static folder so all static resource urls are explicit
